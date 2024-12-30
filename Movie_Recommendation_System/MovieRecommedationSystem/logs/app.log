@@ -1,0 +1,336 @@
+2024-12-27 23:10:38 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:10:38 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:10:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:10:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:14:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:14:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:15:07 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:15:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:15:19 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:21:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:21:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:21:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:21:18 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: admin 1
+2024-12-27 23:21:18 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:21:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:21:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:24:44 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:24:45 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:24:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:25:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:25:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:30:04 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:30:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:30:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:30:17 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:30:22 [main] INFO  com.app.clientapp.Admin - Admin is viewing all movies.
+2024-12-27 23:30:25 [main] ERROR com.app.clientapp.Admin - Invalid input received for admin choice: 3
+2024-12-27 23:30:34 [main] ERROR com.app.clientapp.Admin - Invalid input received for admin choice: 3
+2024-12-27 23:30:45 [main] ERROR com.app.clientapp.Admin - Invalid input received for admin choice: 4
+2024-12-27 23:31:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:31:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:31:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:31:17 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:35:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:35:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:35:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:35:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:44:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:44:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:44:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:44:35 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:49:30 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:49:30 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:49:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:49:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-27 23:50:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-27 23:50:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:50:03 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-27 23:50:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Nobita
+2024-12-27 23:50:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-27 23:51:03 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Session terminated by user
+2024-12-28 09:46:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 09:46:58 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 09:47:01 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 09:47:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 09:48:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 09:48:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 09:48:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 09:48:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 09:49:04 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 09:49:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 09:49:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 09:49:18 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 09:50:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 09:50:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 09:50:49 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 09:50:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 10:29:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 10:29:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 10:29:23 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Registration option selected
+2024-12-28 10:29:55 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Contact already registered: 9876543211
+2024-12-28 10:30:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 10:30:32 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 10:30:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Gokul
+2024-12-28 10:34:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 10:34:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 10:34:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 10:34:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Gokul
+2024-12-28 10:35:24 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 10:35:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 10:35:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 10:36:04 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 10:36:04 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 10:36:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 10:36:15 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: gokul17
+2024-12-28 10:36:15 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 10:36:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 10:36:53 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 13:57:58 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 13:57:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 13:58:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 13:58:20 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 13:59:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 13:59:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 13:59:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 13:59:28 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 14:01:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 14:01:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Session terminated by user
+2024-12-28 22:31:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:31:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:46:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:46:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:46:14 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:46:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:48:14 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:48:14 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:48:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:48:24 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:49:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:49:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:49:35 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:49:43 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:50:49 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:50:49 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:50:52 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:51:01 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:53:25 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:53:25 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:53:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:53:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:55:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:55:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:55:04 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:55:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:57:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:57:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:57:38 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:57:48 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 22:58:32 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 22:58:32 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 22:58:34 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 22:58:43 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:01:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:01:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:01:43 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:01:55 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:03:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:03:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:03:27 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Invalid menu choice: 11
+2024-12-28 23:03:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:03:30 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Invalid menu choice: dfdsf
+2024-12-28 23:03:30 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:03:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:03:49 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:07:18 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:07:18 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:07:22 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Invalid menu choice: admin1
+2024-12-28 23:07:22 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:07:25 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:07:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:13:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:13:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:13:43 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:13:49 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: admin
+2024-12-28 23:13:49 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:13:50 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:13:55 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:17:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:17:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:18:01 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:18:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:20:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:20:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:21:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:21:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:25:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:25:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:25:49 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:25:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:29:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:29:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:30:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:30:07 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:31:14 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:31:14 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:31:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:31:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:31:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:31:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:31:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:32:03 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:33:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:33:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:33:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:33:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-28 23:40:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:40:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:41:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:42:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:42:03 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:42:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:44:37 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:44:38 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:44:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:44:45 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:46:39 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:46:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:46:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:46:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:49:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-28 23:49:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:49:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:49:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-28 23:52:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:52:13 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:52:21 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: ganpa123 ganpa123
+2024-12-28 23:52:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-28 23:52:22 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-28 23:52:29 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 00:06:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 00:06:06 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:06:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 00:06:19 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 00:06:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:06:29 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Invalid menu choice: admin1
+2024-12-29 00:06:29 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:06:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 00:06:44 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 00:21:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 00:21:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:21:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 00:21:17 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 00:24:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 00:24:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:24:59 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 00:25:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 00:27:55 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 00:27:55 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:27:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 00:28:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Nobita
+2024-12-29 00:28:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 00:28:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 00:28:50 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: dfh
+2024-12-29 00:28:50 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:06:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 08:06:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:06:13 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:06:18 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 08:15:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 08:15:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:15:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:15:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 08:16:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 08:16:09 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:16:23 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 08:16:23 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:16:25 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:16:30 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 08:25:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:25:07 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:25:20 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: gaokul17
+2024-12-29 08:25:20 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:26:30 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:26:44 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Gokul
+2024-12-29 08:27:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 08:27:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:27:35 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:27:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 08:29:01 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 08:29:01 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 08:29:03 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 08:29:20 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Chandan
+2024-12-29 10:22:55 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 10:22:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 10:22:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 10:22:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:21:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 11:21:57 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:42:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 11:42:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:42:20 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Registration option selected
+2024-12-29 11:42:51 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Contact already registered: 9309805345
+2024-12-29 11:43:20 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin registration initiated for user: techhubindia
+2024-12-29 11:43:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:44:02 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 11:44:11 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: 
+2024-12-29 11:44:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:44:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 11:44:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: techhub
+2024-12-29 11:50:27 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:50:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 11:50:50 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Admin login successful for user: Admin
+2024-12-29 11:51:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 11:51:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:51:23 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 11:51:38 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: techhub
+2024-12-29 11:51:38 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:51:43 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Registration option selected
+2024-12-29 11:51:57 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Email already registered: techhub@gmail.com
+2024-12-29 11:52:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 11:52:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 11:52:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: techhub
+2024-12-29 12:01:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:01:10 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:01:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:01:25 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: techhub
+2024-12-29 12:01:25 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:01:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:01:40 [main] WARN  com.app.clientapp.MovieRecommendationSystem - Login failed for username: techhub
+2024-12-29 12:01:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:02:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:02:21 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 12:02:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:02:46 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:02:48 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:02:53 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 12:03:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:03:11 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:03:12 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:03:17 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 12:03:29 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:03:29 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:03:31 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:03:36 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 12:03:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:03:47 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:05:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:05:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:05:56 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:06:05 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Ganpa
+2024-12-29 12:08:53 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 12:08:53 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 12:09:00 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 12:09:08 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Chandan
+2024-12-29 23:18:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-29 23:18:16 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-29 23:18:18 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-29 23:18:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: Chandan
+2024-12-30 08:23:40 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-30 08:23:41 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-30 08:23:48 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Registration option selected
+2024-12-30 08:24:39 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
+2024-12-30 08:24:42 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Login option selected
+2024-12-30 08:24:48 [main] INFO  com.app.clientapp.MovieRecommendationSystem - User login successful for user: techhub
+2024-12-30 08:59:32 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Movie Recommendation System started
+2024-12-30 08:59:33 [main] INFO  com.app.clientapp.MovieRecommendationSystem - Prompting user for action
